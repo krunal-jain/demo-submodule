@@ -1,2 +1,2 @@
 # demo-submodule
-Submodule
+GIT Submodule
